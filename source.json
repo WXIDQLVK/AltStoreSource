@@ -1,0 +1,61 @@
+{
+  "name": "My Source",
+  "news": [
+    {
+      "title": "Wallpaper首个版本发布",
+      "identifier": "CA28CBA6-E9BA-4B08-88D6-92AD9D9F15B6",
+      "caption": "适配 iOS 18.0 及以上版本",
+      "date": "2026-11-12T09:18:57Z",
+      "tintColor": "#007AFF",
+      "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/CA28CBA6-E9BA-4B08-88D6-92AD9D9F15B6/image-4d9a5009-79f0-406b-ac02-ba61e5747526.jpeg",
+      "notify": true,
+      "appID": "com.air.wallpaper"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Wallpaper",
+      "bundleIdentifier": "com.air.wallpaper",
+      "developerName": "WXIDQLVK",
+      "subtitle": "壁纸引擎",
+      "localizedDescription": "在您的苹果设备上刷入交互壁纸,应用密码主题,修改卡片封面。",
+      "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/icon-afda4e06-c432-4b97-a529-5ca6ea6f2319.png",
+      "tintColor": "#007AFF",
+      "category": "developer",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-ae609f9b-e0f1-4cc7-a77f-31b771ecca2c.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-ac3525ce-3aba-436e-a757-103d3683abe1.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-19553dcf-7027-48cd-93a9-04b4b0d10e76.png",
+          "width": 1179,
+          "height": 2556
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "1.1.1",
+          "date": "2026-11-12T09:50:25Z",
+          "downloadURL": "https://github.com/WXIDQLVK/MyAltStoreSource/releases/download/1.0/wallpaper.ipa",
+          "size": 12427342,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AirCard-iOS advertises an on-device pairing service so this iPhone can pair with itself, and connects to the local lockdown daemon to run the exploit.",
+          "NSPhotoLibraryUsageDescription": "AirCard-iOS needs photo access to apply custom card skins and passcode themes."
+        }
+      }
+    }
+  ]
+}
