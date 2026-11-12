@@ -27,6 +27,16 @@
       "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/7BE58872-BACA-4516-B940-EF510CCD02AE/image-bf044fcf-751f-4501-b96b-52a1713ce2d7.png",
       "notify": true,
       "appID": "com.add.ram"
+    },
+    {
+      "title": "iTunes 1.0.0 发布！",
+      "identifier": "FF4CCCEA-4DCF-46E9-964B-FDEADE0DBF89",
+      "caption": "同步您的资料库",
+      "date": "2026-11-12T16:41:57Z",
+      "tintColor": "#008C8F",
+      "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/FF4CCCEA-4DCF-46E9-964B-FDEADE0DBF89/image-585b8ddc-00bf-4c81-b70b-a65f636aea4f.png",
+      "notify": true,
+      "appID": "com.music.itunes"
     }
   ],
   "apps": [
@@ -132,20 +142,57 @@
       "bundleIdentifier": "com.music.itunes",
       "developerName": "WXIDQLVK",
       "subtitle": "同步资料库",
-      "localizedDescription": "",
-      "iconURL": "",
+      "localizedSubtitles": {
+        "yue-Hans-CN": "同步资料库"
+      },
+      "localizedDescription": "无需电脑或越狱在您的设备上注入本地文件到资料库",
+      "localizedDescriptions": {
+        "yue-Hans-CN": "无需电脑或越狱在您的设备上注入本地文件到资料库"
+      },
+      "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/icon-56950c8d-d4fb-453e-819d-788894776abb.png",
+      "tintColor": "#008C8F",
+      "category": "developer",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.music.itunes-iphone-386cf621-65ab-41d6-a224-9f459e04a50b.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.music.itunes-iphone-25a6db7b-06de-4b58-b19b-f316e6368b04.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.music.itunes-iphone-843a77e4-887b-459f-84d7-0f6cecb13804.png",
+          "width": 1179,
+          "height": 2556
+        }
+      ],
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.0.0",
           "buildVersion": "1",
-          "date": "2026-11-12T16:20:35Z",
-          "downloadURL": "",
-          "size": 0
+          "marketingVersion": "1.0.0",
+          "date": "2026-11-12T16:37:27Z",
+          "downloadURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/com.music.itunes/1.0.0-1/%E2%80%8BiTunes.ipa",
+          "size": 38824545,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "16.0",
+          "localizedDescription": "新增音乐识别"
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "用于连接此设备并管理音乐与视频资料库。",
+          "NSLocationWhenInUseUsageDescription": "Location updates can help keep active downloads running while the app is in the background. Location is not stored or sent.",
+          "NSMicrophoneUsageDescription": "使用 ShazamKit 聆听附近播放的音乐并识别歌曲。",
+          "NSPhotoLibraryUsageDescription": "用于从照片中选择音乐、视频或图书封面"
+        }
+      },
+      "patreon": {
+        "pledge": 1
       }
     }
   ]
