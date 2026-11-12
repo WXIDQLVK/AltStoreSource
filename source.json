@@ -17,6 +17,15 @@
       "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/CA28CBA6-E9BA-4B08-88D6-92AD9D9F15B6/image-76f0cb28-d182-4fd7-b7e0-03a58cd17971.jpeg",
       "notify": true,
       "appID": "com.air.wallpaper"
+    },
+    {
+      "title": "iRAM 1.0.0 发布",
+      "identifier": "7BE58872-BACA-4516-B940-EF510CCD02AE",
+      "caption": "让模拟器等应用在您的设备上运行更高内存",
+      "date": "2026-11-12T16:02:38Z",
+      "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/7BE58872-BACA-4516-B940-EF510CCD02AE/image-bf044fcf-751f-4501-b96b-52a1713ce2d7.png",
+      "notify": true,
+      "appID": "com.add.ram"
     }
   ],
   "apps": [
@@ -65,6 +74,56 @@
           "NSLocalNetworkUsageDescription": "AirCard-iOS advertises an on-device pairing service so this iPhone can pair with itself, and connects to the local lockdown daemon to run the exploit.",
           "NSPhotoLibraryUsageDescription": "AirCard-iOS needs photo access to apply custom card skins and passcode themes."
         }
+      }
+    },
+    {
+      "name": "iRAM",
+      "bundleIdentifier": "com.add.ram",
+      "developerName": "WXIDQLVK",
+      "subtitle": "增加内存上限",
+      "localizedSubtitles": {
+        "en": "Increase memory limit"
+      },
+      "localizedDescription": "允许软件使用额外内存，扩展大地址空间。",
+      "localizedDescriptions": {
+        "en": "Allow the app to use additional memory and extend the large address space."
+      },
+      "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/icon-8ef1206c-b93c-4409-80f6-07ad94918960.png",
+      "category": "developer",
+      "beta": true,
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.add.ram-iphone-9ad7971d-3d45-45a9-8ab0-94299b16e88e.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.add.ram-iphone-b961f1f5-802e-4d14-9bc2-d456e0072249.png",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.add.ram-iphone-9b7d0065-27cf-4db2-97e2-e02c819b72f2.png",
+          "width": 1179,
+          "height": 2556
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "5",
+          "marketingVersion": "1.0.0",
+          "date": "2026-11-12T16:07:07Z",
+          "downloadURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/com.add.ram/1.0.0-5/iRAM.ipa",
+          "size": 3078791,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "16.0",
+          "localizedDescription": "新增解锁120赫兹"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
       }
     }
   ]
