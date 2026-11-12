@@ -4,6 +4,24 @@
   "description": "欢迎来到我的 AltStore 个人应用商店，这里将收录我整理的 iOS 应用。",
   "iconURL": "https://wxidqlvk.github.io/MyAltStoreSource/icon.png",
   "tintColor": "#3478F6",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Wallpaper",
+      "bundleIdentifier": "com.air.wallpaper",
+      "developerName": "你的开发者名称",
+      "localizedDescription": "壁纸应用",
+      "iconURL": "https://wxidqlvk.github.io/MyAltStoreSource/icon.png",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "1.1.1",
+          "date": "2026-11-12",
+          "downloadURL": "https://github.com/WXIDQLVK/MyAltStoreSource/releases/download/1.0/wallpaper.ipa",
+          "size": 12345678,
+          "minOSVersion": "18.0"
+        }
+      ]
+    }
+  ],
   "news": []
 }
