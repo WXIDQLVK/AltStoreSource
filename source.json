@@ -193,6 +193,8 @@
         }
       },
       "patreon": {
+        "currency": "CNY",
+        "hidden": true,
         "pledge": 1
       }
     }
