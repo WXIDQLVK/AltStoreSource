@@ -2,8 +2,8 @@
   "name": "AltFlight",
   "subtitle": "测试分发应用",
   "description": "构建更多实用工具，需要使用证书安装。",
-  "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/icon-3203cae2-28e3-4441-b6fb-9c0aae611e13.png",
-  "headerURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/header-2ea4a0b7-993b-42ad-be62-563a9dd8917d.png",
+  "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/icon-9287acee-e36e-40a3-8e17-e234e22394a3.png",
+  "headerURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/header-c241251b-323b-47df-9218-a1a5fbd5e222.png",
   "website": "https://wxidqlvk.github.io",
   "patreonURL": "https://www.patreon.com/cw/LaiDeSiNuo",
   "tintColor": "#3478F6",
@@ -14,7 +14,7 @@
       "caption": "适配 iOS 18.0 及以上版本",
       "date": "2026-11-12T09:18:57Z",
       "tintColor": "#007AFF",
-      "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/CA28CBA6-E9BA-4B08-88D6-92AD9D9F15B6/image-4d9a5009-79f0-406b-ac02-ba61e5747526.jpeg",
+      "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/CA28CBA6-E9BA-4B08-88D6-92AD9D9F15B6/image-76f0cb28-d182-4fd7-b7e0-03a58cd17971.jpeg",
       "notify": true,
       "appID": "com.air.wallpaper"
     }
@@ -26,22 +26,22 @@
       "developerName": "WXIDQLVK",
       "subtitle": "壁纸引擎",
       "localizedDescription": "在您的苹果设备上刷入交互壁纸,应用密码主题,修改卡片封面。",
-      "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/icon-afda4e06-c432-4b97-a529-5ca6ea6f2319.png",
+      "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/icon-dc46d453-b4a9-402e-b506-4a2e84de7493.png",
       "tintColor": "#007AFF",
       "category": "developer",
       "screenshots": [
         {
-          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-ae609f9b-e0f1-4cc7-a77f-31b771ecca2c.png",
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.air.wallpaper-iphone-2db9ff4a-b74e-4059-a717-11ed25e6f7ee.png",
           "width": 1179,
           "height": 2556
         },
         {
-          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-ac3525ce-3aba-436e-a757-103d3683abe1.png",
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.air.wallpaper-iphone-6132b42b-cf30-4d2a-83e2-4ca440e13211.png",
           "width": 1179,
           "height": 2556
         },
         {
-          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/iphone/com.air.wallpaper-iphone-19553dcf-7027-48cd-93a9-04b4b0d10e76.png",
+          "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/iphone/com.air.wallpaper-iphone-30a98095-16bf-471f-95eb-939b8007009f.png",
           "width": 1179,
           "height": 2556
         }
@@ -50,10 +50,13 @@
         {
           "version": "1.1.1",
           "buildVersion": "1.1.1",
-          "date": "2026-11-12T09:50:25Z",
-          "downloadURL": "https://github.com/WXIDQLVK/MyAltStoreSource/releases/download/1.0/wallpaper.ipa",
+          "marketingVersion": "1.1.1",
+          "date": "2026-11-12T13:13:46Z",
+          "downloadURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/com.air.wallpaper/1.1.1-1.1.1/Wallpaper.ipa",
           "size": 12427342,
-          "minOSVersion": "18.0"
+          "minOSVersion": "18.0",
+          "maxOSVersion": "26.0",
+          "localizedDescription": "交互壁纸"
         }
       ],
       "appPermissions": {
