@@ -1,7 +1,7 @@
 {
   "name": "AltFlight",
   "subtitle": "测试分发应用",
-  "description": "侧载未在苹果应用商店上架应用，需要苹果官方证书签名安装使用",
+  "description": "收集更多苹果实用工具，需要使用苹果证书安装",
   "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/icon-3203cae2-28e3-4441-b6fb-9c0aae611e13.png",
   "headerURL": "https://raw.githubusercontent.com/WXIDQLVK/MyAltStoreSource/main/header-2ea4a0b7-993b-42ad-be62-563a9dd8917d.png",
   "website": "https://wxidqlvk.github.io",
