@@ -23,6 +23,7 @@
       "identifier": "7BE58872-BACA-4516-B940-EF510CCD02AE",
       "caption": "让模拟器等应用在您的设备上运行更高内存",
       "date": "2026-11-12T16:02:38Z",
+      "tintColor": "#8000FF",
       "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/7BE58872-BACA-4516-B940-EF510CCD02AE/image-bf044fcf-751f-4501-b96b-52a1713ce2d7.png",
       "notify": true,
       "appID": "com.add.ram"
@@ -119,6 +120,27 @@
           "minOSVersion": "16.0",
           "maxOSVersion": "16.0",
           "localizedDescription": "新增解锁120赫兹"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "iTunes",
+      "bundleIdentifier": "com.music.itunes",
+      "developerName": "WXIDQLVK",
+      "subtitle": "同步资料库",
+      "localizedDescription": "",
+      "iconURL": "",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-12T16:20:35Z",
+          "downloadURL": "",
+          "size": 0
         }
       ],
       "appPermissions": {
