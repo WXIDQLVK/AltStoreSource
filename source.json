@@ -193,8 +193,12 @@
         }
       },
       "patreon": {
-        "currency": "CNY",
-        "pledge": 1
+        "benefit": "17122816",
+        "currency": "EUR",
+        "pledge": 3,
+        "tiers": [
+          "30046361"
+        ]
       }
     }
   ]
