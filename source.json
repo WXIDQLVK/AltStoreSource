@@ -26,7 +26,7 @@
       "tintColor": "#8000FF",
       "imageURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/7BE58872-BACA-4516-B940-EF510CCD02AE/image-1a30731b-c5dc-4c8c-9cbe-af4e7daaf184.png",
       "notify": true,
-      "appID": "com.add.ram"
+      "appID": "com.getmore.iram"
     }
   ],
   "apps": [
@@ -79,7 +79,7 @@
     },
     {
       "name": "iRAM",
-      "bundleIdentifier": "com.add.ram",
+      "bundleIdentifier": "com.getmore.iram",
       "developerName": "WXIDQLVK",
       "subtitle": "增加内存上限",
       "localizedSubtitles": {
@@ -118,7 +118,7 @@
           "downloadURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/com.add.ram/1.0.0-5/iRAM.ipa",
           "size": 3098541,
           "minOSVersion": "16.0",
-          "localizedDescription": "新增内存检查"
+          "localizedDescription": "新增内存检查和Jit检测"
         }
       ],
       "appPermissions": {
