@@ -83,11 +83,11 @@
       "developerName": "WXIDQLVK",
       "subtitle": "增加内存上限",
       "localizedSubtitles": {
-        "en": "Increase memory limit"
+        "yue-Hans-CN": "增加内存上限"
       },
       "localizedDescription": "允许软件使用额外内存，扩展大地址空间。",
       "localizedDescriptions": {
-        "en": "Allow the app to use additional memory and extend the large address space."
+        "yue-Hans-CN": "允许软件使用额外内存，扩展大地址空间。"
       },
       "iconURL": "https://raw.githubusercontent.com/WXIDQLVK/AltStoreSource/main/icon-8ef1206c-b93c-4409-80f6-07ad94918960.png",
       "tintColor": "#8000FF",
